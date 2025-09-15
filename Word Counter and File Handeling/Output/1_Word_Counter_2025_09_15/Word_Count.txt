@@ -1,0 +1,42 @@
+Wildlife refers to undomesticated animals and uncultivated plant species which
+can exist in their natural habitat, but has come to include all organisms that
+grow or live wild in an area without being introduced by humans.
+
+Below are the words and their repetation from above paragraph
+______________________________________________________________
+
+Words          Counts
+Wildlife       1
+Refers         1
+To             2
+Undomesticated 1
+Animals        1
+And            1
+Uncultivated   1
+Plant          1
+Species        1
+Which          1
+Can            1
+Exist          1
+In             2
+Their          1
+Natural        1
+Habitat        1
+But            1
+Has            1
+Come           1
+Include        1
+All            1
+Organisms      1
+That           1
+Grow           1
+Or             1
+Live           1
+Wild           1
+An             1
+Area           1
+Without        1
+Being          1
+Introduced     1
+By             1
+Humans         1
