@@ -1,25 +1,3 @@
-# Write a Python program that:
-
-# 1. Accepts a password from the user.
-# 2. Checks for the following rules:
-# - At least 8 characters long
-# - Contains at least one uppercase letter
-# - Contains at least one lowercase letter
-# - Contains at least one digit
-# - Contains at least one special character (!@#$%^&* etc.)
-
-# 3. Assigns a strength level:
-# - "Weak" if only 1–2 conditions are met
-# - "Moderate" if 3–4 conditions are met
-# - "Strong" if all 5 conditions are met
-
-# 4. Prints a final message with suggestions (e.g., “Add more special characters to make your password stronger”).
-
-# 5. 🎯 Example Runs
-# - Enter password: hello123
-# - Strength: Moderate
-# - Suggestion: Add uppercase letters and special characters
-
 import string
 import time
 import getpass
@@ -61,5 +39,6 @@ def strength_analyzer(strength_counter):
             return f"Strength : Moderate"
         case _ :
             return f"Strength: Strong\nGood job! ✅"
+
 
 print(strength_analyzer(strength_counter))
