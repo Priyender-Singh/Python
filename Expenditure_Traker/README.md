@@ -60,6 +60,8 @@ Each expense is stored as a dictionary inside the JSON file:
   }
 }
 
+---
+
 📝 Usage
 
 1. Run the program:
