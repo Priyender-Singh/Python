@@ -58,9 +58,7 @@ Each expense is stored as a dictionary inside the JSON file:
     "Category": "Transport",
     "Amount": 100
   }
-}
-
----
+}```
 
 📝 Usage
 
