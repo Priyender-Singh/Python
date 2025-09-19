@@ -1,0 +1,27 @@
+{
+    "1": {
+        "Date": "2025-01-02",
+        "Category": "Food",
+        "Amount": 1200
+    },
+    "2": {
+        "Date": "2025-01-03",
+        "Category": "Food",
+        "Amount": 1200
+    },
+    "3": {
+        "Date": "2025-01-07",
+        "Category": "Travel",
+        "Amount": 7000
+    },
+    "4": {
+        "Date": "2025-01-31",
+        "Category": "Business",
+        "Amount": 15000
+    },
+    "5" : {
+        "Date": "2025-03-01",
+        "Category": "Movie",
+        "Amount": 1500
+    }
+}
